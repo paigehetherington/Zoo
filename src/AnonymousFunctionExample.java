@@ -6,7 +6,7 @@ public class AnonymousFunctionExample {
        //run code from separate method (tradl way of running code)
         sayHello();
 
-        //run code from an anonymus class
+        //run code from an anonymous class
         Runnable r1 = new Runnable() {
 
             @Override
